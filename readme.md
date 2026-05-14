@@ -9,10 +9,6 @@ Project artifact for:
 - Downloader: `git` — Cloned https://bitbucket.org/wsucailab/iterative-taint-analysis.git (37 files)
 
 
-## Other papers using the same artifact
-
-- Leveraging Historical Versions of Android Apps for Efficient and Precise Taint Analysis
-
 This repository was created automatically. The contents under this
 directory mirror what was downloaded from the original artifact link
 above; refer to that source for the authoritative version, licensing,
